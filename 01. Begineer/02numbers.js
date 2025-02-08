@@ -1,0 +1,10 @@
+const firstFavNum = 20;
+const secondFavNum = 7;
+const add = firstFavNum + secondFavNum;
+const sub = firstFavNum - secondFavNum;
+const multiply = firstFavNum * secondFavNum;
+const divide = firstFavNum / secondFavNum;
+console.log(add);
+console.log(sub);
+console.log(multiply);
+console.log(divide);
